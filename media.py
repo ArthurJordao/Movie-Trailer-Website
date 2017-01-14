@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie(object):
     """This class provides a way to store movie related information"""
 
@@ -8,5 +9,6 @@ class Movie(object):
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
+
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)

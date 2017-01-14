@@ -5,19 +5,17 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 Movie	entertainment_center.py	/^from media import Movie$/;"	kind:namespace	line:1
-Movie	interstellar.py	/^from media import Movie$/;"	kind:namespace	line:1
 Movie	media.py	/^class Movie(object):$/;"	kind:class	line:3
-__init__	media.py	/^    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):$/;"	kind:member	line:4
+__init__	media.py	/^    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):$/;"	kind:member	line:6
 create_movie_tiles_content	fresh_tomatoes.py	/^def create_movie_tiles_content(movies):$/;"	kind:function	line:128
 entertainment_center.py	entertainment_center.py	1;"	kind:file	line:1
+fresh_tomatoes	entertainment_center.py	/^import fresh_tomatoes$/;"	kind:namespace	line:2
 fresh_tomatoes.py	fresh_tomatoes.py	1;"	kind:file	line:1
-interstellar.py	interstellar.py	1;"	kind:file	line:1
-main	entertainment_center.py	/^def main():$/;"	kind:function	line:3
-main	interstellar.py	/^def main():$/;"	kind:function	line:3
+main	entertainment_center.py	/^def main():$/;"	kind:function	line:4
 media.py	media.py	1;"	kind:file	line:1
 open_movies_page	fresh_tomatoes.py	/^def open_movies_page(movies):$/;"	kind:function	line:145
 os	fresh_tomatoes.py	/^import os$/;"	kind:namespace	line:2
 re	fresh_tomatoes.py	/^import re$/;"	kind:namespace	line:3
-show_trailer	media.py	/^    def show_trailer(self):$/;"	kind:member	line:9
+show_trailer	media.py	/^    def show_trailer(self):$/;"	kind:member	line:11
 webbrowser	fresh_tomatoes.py	/^import webbrowser$/;"	kind:namespace	line:1
 webbrowser	media.py	/^import webbrowser$/;"	kind:namespace	line:1
