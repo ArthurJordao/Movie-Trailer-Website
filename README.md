@@ -7,7 +7,7 @@ This project will write a server-side code to store a list of your favorites mov
 
 ## Running
 1. Clone this repository or download the Zip file and UnZip it.
-2. Run with [python 2.7](https://www.python.org/).
+2. Run the file entertainment_center.py with [python 2.7](https://www.python.org/).
 3. It will open a webpage in your browser.
 
 
